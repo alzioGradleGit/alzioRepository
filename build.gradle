@@ -1,0 +1,3 @@
+task alzio05<<{
+	println 'Hello, gradle. This is ' + user
+}
